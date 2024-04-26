@@ -21,28 +21,28 @@ Laravel Vue Task Manager is a full-stack web application for managing tasks, bui
 
 ## Screenshots
 
-![Login screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/login_screen.png)
+![Login screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/login_screen.png)
 *Login screen*
 
-![Register screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/register_screen.png)
+![Register screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/register_screen.png)
 *Register screen*
 
-![home screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/home_screen.png)
+![home screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/home_screen.png)
 *home screen*
 
-![add screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/add_screen.png)
+![add screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/add_screen.png)
 *add screen*
 
-![edit screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/edit_screen.png)
+![edit screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/edit_screen.png)
 *edit screen*
 
-![delete screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/delete_screen.png)
+![delete screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/delete_screen.png)
 *delete screen*
 
-![filter screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/filter_screen.png)
+![filter screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/filter_screen.png)
 *filter screen*
 
-![sort screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/screens/sort_screen.png)
+![sort screen](https://raw.githubusercontent.com/mohamed-ettahery/Squahr_test_task_manager/main/public/assets/screens/sort_screen.png)
 *sort screen*
 
 
