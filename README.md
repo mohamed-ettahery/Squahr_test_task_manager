@@ -21,28 +21,28 @@ Laravel Vue Task Manager is a full-stack web application for managing tasks, bui
 
 ## Screenshots
 
-![Login screen](/assets/login_screen.png)
+![Login screen](/screens/login_screen.png)
 *Login screen*
 
-![Register screen](/assets/register_screen.png)
+![Register screen](/screens/register_screen.png)
 *Register screen*
 
-![home screen](/assets/home_screen.png)
+![home screen](/screens/home_screen.png)
 *home screen*
 
-![add screen](/assets/add_screen.png)
+![add screen](/screens/add_screen.png)
 *add screen*
 
-![edit screen](/assets/edit_screen.png)
+![edit screen](/screens/edit_screen.png)
 *edit screen*
 
-![delete screen](/assets/delete_screen.png)
+![delete screen](/screens/delete_screen.png)
 *delete screen*
 
-![filter screen](/assets/filter_screen.png)
+![filter screen](/screens/filter_screen.png)
 *filter screen*
 
-![sort screen](/assets/sort_screen.png)
+![sort screen](/screens/sort_screen.png)
 *sort screen*
 
 
