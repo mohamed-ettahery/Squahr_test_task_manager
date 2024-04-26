@@ -21,28 +21,28 @@ Laravel Vue Task Manager is a full-stack web application for managing tasks, bui
 
 ## Screenshots
 
-![Login screen](/assets/login_screen.png)
+![Login screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/login_screen.png)
 *Login screen*
 
-![Register screen](/assets/register_screen.png)
+![Register screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/register_screen.png)
 *Register screen*
 
-![home screen](/assets/home_screen.png)
+![home screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/home_screen.png)
 *home screen*
 
-![add screen](/assets/add_screen.png)
+![add screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/add_screen.png)
 *add screen*
 
-![edit screen](/assets/edit_screen.png)
+![edit screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/edit_screen.png)
 *edit screen*
 
-![delete screen](/assets/delete_screen.png)
+![delete screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/delete_screen.png)
 *delete screen*
 
-![filter screen](/assets/filter_screen.png)
+![filter screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/filter_screen.png)
 *filter screen*
 
-![sort screen](/assets/sort_screen.png)
+![sort screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/sort_screen.png)
 *sort screen*
 
 
