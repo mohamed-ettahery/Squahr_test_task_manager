@@ -22,28 +22,28 @@ Laravel Vue Task Manager is a full-stack web application for managing tasks, bui
 
 ## Screenshots
 
-![Login screen](screens/login_screen.png)
+![login_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/342785fa-0811-46f5-8b14-b3f9f318ec5b)
 _Login screen_
 
-![Register screen](screens/register_screen.png)
+![register_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/1fc1bc09-71bf-492c-b2c6-188c88e82d76)
 _Register screen_
 
-![home screen](screens/home_screen.png)
+![home_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/05d061dd-9c16-4fc7-9d57-9e85986c94ca)
 _home screen_
 
-![add screen](screens/add_screen.png)
+![add_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/2c700596-34f2-4444-9a4c-d23cb490a8ed)
 _add screen_
 
-![edit screen](screens/edit_screen.png)
+![edit_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/bdc405d5-0371-4de0-820c-373d65031986)
 _edit screen_
 
-![delete screen](screens/delete_screen.png)
+![delete_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/7e12c07c-4b1a-4781-9589-6c5f6d1b609b)
 _delete screen_
 
-![filter screen](screens/filter_screen.png)
+![filter_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/0d00159c-926d-4f63-beef-9d5c0b4e4429)
 _filter screen_
 
-![sort screen](screens/sort_screen.png)
+![sort_screen](https://github.com/mohamed-ettahery/Squahr_test_task_manager/assets/93668962/aed2e409-789c-4d28-95ff-52a312790a79)
 _sort screen_
 
 # Clone the repository
